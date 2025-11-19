@@ -1,42 +1,22 @@
 # uc3m Networks Workshop 2025
-Methods Workshop: Social Sciences PhD Program (2025/2026). Network Theory for the Social Sciences: Concepts, Models, and Applications with Python
+*Methods Workshop: Social Sciences PhD Program (2025/2026)* <br>
+**Teacher**: [Blas Kolic](https://www.linkedin.com/in/blas-kolic-921359171)
 
-## How to use this material (no git needed)
+Welcome to the Workshop for Network Theory for the Social Sciences: Concepts, Models, and Applications with Python :)
 
-### 1. Create your personal workspace
+Networks are all about connections. By focusing on relationships rather than isolated units, we can understand structures and patterns of real-world complex systems. You'll see that more things than you can imagine can be represented as a network, and we'll be able to understand many social, biological, and technological phenomena not only from individual characteristics but from the web of interactions that link them.
 
-On your computer, create a folder, for example:
+This workshop will introduce participants to the foundational concepts and theories of networks in the social sciences and show how these frameworks help explain individual behaviors and collective outcomes. We will examine how network structures help explain social, political, economic, and cultural dynamics; learn to visualize and analyze networks using Python; and connect empirical patterns to social theory. By the end, participants will also understand the principles behind generative and statistical models of social networks and how to apply them in practice.
 
-`my_workshop_work/`
+## Workshop contents
+You can find a detailed syllabus of the course [here](https://docs.google.com/document/d/1tbUFCsfmJMqQ1RelFVrBqFgI3F6eA9p0Fdt3vsGC9LE/edit?usp=sharing). We will have one session per week and, for each session, I'll update this repository with its corresponding material, which will consist of a theoretical part (through slides) and a practical part (through Jupyter notebooks). You can find instructions on how to set up Python and Jupyter notebooks in the syllabus.
 
-You will keep all your work there.
+The material is divided as follows:
+1. **Introduction to networks and Python** ([slides](), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python.html), [tutorial (ipynb)](https://github.com/blas-ko/uc3m_networks_workshop_2025/blob/main/session_1/01_introduction_to_networks_and_python.ipynb))
+2. **Network models and structural analysis**
+3. **Link prediction and network inference**
+4. **Dynamics on networks**
 
-### 2. Each session
-
-1. Go to this GitHub page.
-2. Click the green **Code** button → **Download ZIP**.
-3. Unzip the file (you'll get a copy of this repository with folders named `session_X/`).
-4. Inside, identify the Jupyter notebook, for example `uc3m_networks_workshop_2025/session_1/introduction_to_networks.ipynb`.
-5. Copy all `session_X` folder that session folder into your workspace, so you have:
-
-   `my_course_work/session_1/introduction_to_networks.ipynb`
-   `my_course_work/session_1/extras/`
-   `my_course_work/session_1/data/`
-
-6. Work **only** inside the folder in `my_course_work/` (not in the downloaded ZIP folder).
-
-### 3. If I publish an update for the current session
-
-Sometimes I may update data or example code for the current session.
-
-- I will **not** change the files you are supposed to edit.
-- I will only update helper files in `extras/`.
-
-To update:
-
-1. Delete de old downloaded ZIP.
-2. Download the ZIP again.
-3. Unzip it.
-4. Copy the updated files from `session_X/extras/` and `session_X/data/` 
-   into your corresponding folder in `my_course_work/session_X/extras/` and `data`,
-   overwriting the old extras and data.
+## Contact
+If you have any comments or questions, please write me at:
+> blas.kolic@uc3m.es
