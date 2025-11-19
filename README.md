@@ -12,7 +12,7 @@ This workshop will introduce participants to the foundational concepts and theor
 You can find a detailed syllabus of the course [here](https://docs.google.com/document/d/1tbUFCsfmJMqQ1RelFVrBqFgI3F6eA9p0Fdt3vsGC9LE/edit?usp=sharing). We will have one session per week and, for each session, I'll update this repository with its corresponding material, which will consist of a theoretical part (through slides) and a practical part (through Jupyter notebooks). You can find instructions on how to set up Python and Jupyter notebooks in the syllabus.
 
 The material is divided as follows:
-1. **Introduction to networks and Python** ([slides](), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python.html), [tutorial (ipynb)](https://github.com/blas-ko/uc3m_networks_workshop_2025/blob/main/session_1/01_introduction_to_networks_and_python.ipynb))
+1. **Introduction to networks and Python** ([slides](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python_slides.pdf), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python.html), [tutorial (ipynb)](https://github.com/blas-ko/uc3m_networks_workshop_2025/blob/main/session_1/01_introduction_to_networks_and_python.ipynb))
 2. **Network models and structural analysis**
 3. **Link prediction and network inference**
 4. **Dynamics on networks**
