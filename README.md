@@ -15,7 +15,7 @@ You can find a detailed syllabus of the course [here](https://docs.google.com/do
 The material is divided as follows:
 1. **Introduction to networks and Python** ([slides](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python_slides.pdf), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_1/01_introduction_to_networks_and_python.html), [session folder](https://download-directory.github.io/?url=https://github.com/blas-ko/uc3m_networks_workshop_2025/tree/main/session_1))
 2. **Network models and structural analysis** ([slides](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_2/02_network_models_and_structural_analysis_slides.pdf), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_2/02_network_models_and_structural_analysis.html), [session folder](https://download-directory.github.io/?url=https://github.com/blas-ko/uc3m_networks_workshop_2025/tree/main/session_2))
-3. **Link prediction and network inference**
+3. **Link prediction and network inference** ([slides](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_3/03_link_prediction_and_network_inference_slides.pdf), [tutorial (viewer)](https://blas-ko.github.io/uc3m_networks_workshop_2025/session_3/03_link_prediction_and_network_inference.html), [session folder](https://download-directory.github.io/?url=https://github.com/blas-ko/uc3m_networks_workshop_2025/tree/main/session_3))
 4. **Dynamics on networks**
 
 ## Contact
