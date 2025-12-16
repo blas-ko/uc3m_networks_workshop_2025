@@ -23,4 +23,5 @@ If you have any comments or questions, please write me at:
 > blas.kolic@uc3m.es
 
 <br>
+
 ***Note**: This workshop is inspired from the Social Network Analysis of the uc3m masters on Computational Social Science, created by Esteban Moro and Blas Kolic*
